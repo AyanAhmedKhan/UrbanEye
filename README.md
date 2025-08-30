@@ -184,11 +184,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Akshit - [@akshit-pahade](https://www.linkedin.com/in/akshit-pahade/) - akpahade55@gmail.com
+Ayan Ahmed Khan - [@akshit-pahade](https://www.linkedin.com/in/ayan-ahmed-khan-95978620a/) - ayan.ahmedkhan591@gmail.com
 
-Project Link: [https://github.com/Akshit2807/UrbanEye](https://github.com/Akshit2807/UrbanEye)
+
 
 <div align="center">
   <br />
-  <p>Made with ❤️ for better cities.</p>
+  <p>Made with ❤️ for a Clean, Green & Prosperous India</p>
 </div>
+
