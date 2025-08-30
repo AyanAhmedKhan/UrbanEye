@@ -123,7 +123,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Akshit2807/UrbanEye.git](https://github.com/Akshit2807/UrbanEye.git)
+    git clone [https://github.com/AyanAhmedKhan/UrbanEye/tree/main](https://github.com/AyanAhmedKhan/UrbanEye/tree/main)
     cd UrbanEye/backend  # Navigate to the backend folder
     ```
 2.  **Setup Firebase Admin SDK:**
@@ -192,5 +192,6 @@ Ayan Ahmed Khan - [@AyanAhmedKhan](https://www.linkedin.com/in/ayan-ahmed-khan-9
   <br />
   <p>Made with ❤️ for a Clean, Green & Prosperous India</p>
 </div>
+
 
 
