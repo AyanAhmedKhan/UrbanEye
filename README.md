@@ -184,7 +184,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Ayan Ahmed Khan - [@akshit-pahade](https://www.linkedin.com/in/ayan-ahmed-khan-95978620a/) - ayan.ahmedkhan591@gmail.com
+Ayan Ahmed Khan - [@AyanAhmedKhan](https://www.linkedin.com/in/ayan-ahmed-khan-95978620a/) - ayan.ahmedkhan591@gmail.com
 
 
 
@@ -192,4 +192,5 @@ Ayan Ahmed Khan - [@akshit-pahade](https://www.linkedin.com/in/ayan-ahmed-khan-9
   <br />
   <p>Made with ❤️ for a Clean, Green & Prosperous India</p>
 </div>
+
 
